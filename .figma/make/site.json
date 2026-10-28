@@ -1,0 +1,10 @@
+{
+  "description": "Study with interactive flashcards, reveal answers, track progress, and review source evidence to make learning more focused and effective.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
